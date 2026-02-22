@@ -2,7 +2,7 @@
 
 A production-ready Machine Learning web application that predicts daily Uber trip demand using historical operational data and engineered time-series features.
 
-🔗 **Live App:** https://your-app-name.streamlit.app  
+🔗 **Live App:** https://uber-demand-forecasting-app-nxqtqg88rs5il3dqsxshjb.streamlit.app/ 
 📂 **GitHub Repository:** https://github.com/jwelaktar1004-pixel/uber-demand-forecasting-app  
 
 ---
